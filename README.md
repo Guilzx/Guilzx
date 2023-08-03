@@ -3,7 +3,6 @@
 
 <h3>ﾟ･✧🛸・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo!</h3>
  ​<p align="center" > 
-      gui.js
  ​    <img src="https://discord.c99.nl/widget/theme-4/788443073885110302.png" /> 
 
 </p>
