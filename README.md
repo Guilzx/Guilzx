@@ -1,7 +1,5 @@
  
-<h2>ﾟ･✧☁・Opa bão? Eu sou o Guii , ta aqui porquê seu merdinha?</h2>
-<p>Salve salve pike, que tal aproveitar que você está aqui e chupar minha pika? Digo... Me pagar um babão. Não, péra...</p>
-
+<h2>ﾟ･✧☁・Opa bão? Eu sou o Guii 🚀 </h2>
 
 <h3>ﾟ･✧🛸・Me chama no discord lá pra mim te roubar. Digo... Pra nois bater um papo!</h3>
  ​<p align="center" > 
@@ -10,7 +8,7 @@
 
 </p>
 
-<h2>ﾟ･✧🌌・Informações de merda que ninguém liga: </h2>
+<h2>ﾟ･✧🌌・Informações de inuteis que ninguém liga: </h2>
  ​<p align="center" > 
 </p>
 
