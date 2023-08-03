@@ -8,7 +8,7 @@
 </p>
 
 <p align="center" >
-ﾟ･✧🌌・Informações de inuteis que ninguém liga: 
+ﾟ･✧🌌・Informações inuteis que ninguém liga: 
 <p align="center" >
  💻 Atualmente estudando HTML, CSS e JavaScript.
 <div>
