@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://discord.c99.nl/widget/theme-4/788443073885110302.png" alt="Discord Widget" />
-    <p>Me chama no discord lá pra mim te roubar algo. Digo... Pra nois bater um papo!</p>
+    <p>✧☁ Me chama no discord lá pra mim te roubar algo. Digo... Pra nois bater um papo!</p>
 
-  <h2>Informações inúteis que ninguém liga 🌌</h2>
+  <h2>ﾟ･✧ Informações inúteis que ninguém liga 🌌</h2>
   <p>💻 Atualmente, estou programando em JavaScript, HTML e CSS.</p>
     
   <div>
