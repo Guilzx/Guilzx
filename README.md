@@ -3,7 +3,7 @@
     <p>✧☁ Me chama no discord lá pra eu te roubar algo. Digo... Pra nois bater um papo!</p>
 
   <h2>ﾟ･✧ Informações inúteis que ninguém liga 🌌</h2>
-  <p>💻 Atualmente, estou programando em JavaScript, HTML e CSS.</p>
+
     
   <div>
     <a href="https://github.com/guileen">
