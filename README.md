@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-3/742832751367159920.png" alt="Discord Widget" />
+  <img src="[https://discord.c99.nl/widget/theme-3/742832751367159920.png](https://discord.c99.nl/widget/theme-3/742832751367159920.png)" alt="Discord Widget" />
     <p>✧☁ Me chama no discord lá pra eu te roubar algo. Digo... Pra nois bater um papo!</p>
 
   <h2>ﾟ･✧ Informações inúteis que ninguém liga 🌌</h2>
