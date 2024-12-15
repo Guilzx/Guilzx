@@ -1,7 +1,6 @@
 <!-- markdownlint-disable -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/469860012043272193)](https://discord.com/users/469860012043272193)
-[![Discord Presence](https://lanyard.cnrad.dev/api/469860012043272193)](https://discord.com/users/469860012043272193)
-[![Discord Presence](https://lanyard.cnrad.dev/api/469860012043272193)](https://discord.com/users/469860012043272193)
+[![Discord Presence](https://lanyard.cnrad.dev/api/742832751367159920)](https://discord.com/users/742832751367159920)
 
 <div align="center">
   <p>✧☁ Me chama no discord lá pra eu te roubar algo. Digo... Pra nois bater um papo!</p>
