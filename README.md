@@ -1,5 +1,5 @@
 <div align="center">
-  <img src=[![Discord Presence](https://lanyard.cnrad.dev/api/469860012043272193)](https://discord.com/users/469860012043272193) />
+[![Discord Presence](https://lanyard.cnrad.dev/api/469860012043272193)](https://discord.com/users/469860012043272193)
   <p>✧☁ Me chama no discord lá pra eu te roubar algo. Digo... Pra nois bater um papo!</p>
 
   <h2>ﾟ･✧ Informações inúteis que ninguém liga 🌌</h2>
