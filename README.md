@@ -1,6 +1,6 @@
 <h1>
   <a href="https://git.io/typing-svg">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi%2C+I'm+Guiii+.py!" alt="Typing SVG" />
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi%2C+I'm+Guiiiiiiiiiiiiiiiiiiiiiiiiii+.py!" alt="Typing SVG" />
   </a>
 </h1>
 
