@@ -1,3 +1,9 @@
+<h1>
+  <a href="https://git.io/typing-svg">
+   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00AEFF&random=false&width=435&lines=Hi%2C+I'm+Guiii+.py!" alt="Typing SVG" />
+  </a>
+</h1>
+
 <!-- markdownlint-disable -->
 [![Discord Presence](https://lanyard.cnrad.dev/api/469860012043272193)](https://discord.com/users/469860012043272193)
 [![Discord Presence](https://lanyard.cnrad.dev/api/742832751367159920)](https://discord.com/users/742832751367159920)
